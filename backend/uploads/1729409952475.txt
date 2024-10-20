@@ -1,0 +1,24 @@
+   DATE                 NARRATION                                                           WITHDRAWAL (DR.)                   DEPOSIT (CR.)          BALANCE
+
+    01-Aug-2024          Opening Balance                                                                                                                      0
+
+    10-Aug-2024          DEPOSIT UPI CR-RRN:422394444743-From                                                                           100                  100
+                         A/C:00000035399868304-IFSC:SBIN0013450-
+                         DUM DUMMY M-Rem: Payment fr
+
+    20-Aug-2024          DEPOSIT UPI CR-RRN:423342557816-From                                                                            80                  180
+                         A/C:915010056596069-IFSC:UTIB0004410-DUM
+                         DUMDUM-Rem: Payment fr
+
+    20-Aug-2024          WTHDRL UPI DR-RRN:423355387656-To                                                       100                                         80
+                         A/C:00000035588684559-IFSC:SBIN0013450-
+                         DUM DUM DUMDUM-Rem: UPI
+
+    21-Aug-2024          WTHDRL UPI DR-RRN:423461932796-To                                                         50                                        30
+                         A/C:915010056596069-IFSC:UTIB0004410-DUMDUM
+                         DUM-Rem: Payment fr
+
+    21-Aug-2024          DEPOSIT UPI CR-RRN:423478998063-From                                                                           800                  830
+                         A/C:915010056596069-IFSC:UTIB0004410-DUMDUMDUM
+                         DUM-Rem: Payment fr
+

@@ -1,0 +1,22 @@
+Txn Date       Value         Description                  Ref No./Cheque  Debit      Credit    Balance
+
+               Date                                       No.
+
+3 Jun 2024     3 Jun   2024  TO TRANSFER-                 TRANSFER TO     3,400.00             8,902.33
+
+                             UPI/DR/415569657445/DUM DUM   4897690162095
+
+                             v /IDFB/dumdumdum/UPI-
+
+3 Jun 2024     3 Jun   2024  TO TRANSFER-                 TRANSFER TO     10.00                8,892.33
+
+                             UPI/DR/415596313260/DUM DUMDUM  4897690162095
+
+                             /YESB/paytmqrwmu/Paid-
+
+3 Jun 2024     3 Jun   2024  TO TRANSFER-                 TRANSFER TO     21.00                8,871.33
+
+                             UPI/DR/415500042450/DUMDUM    4897690162095
+
+                             KU/YESB/q573706919/Paid-
+

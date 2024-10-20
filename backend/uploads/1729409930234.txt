@@ -1,0 +1,16 @@
+ #   TRANSACTION DATE       VALUE DATE    TRANSACTION DETAILS                 CHQ / REF NO.        DEBIT/CREDIT(₹)       BALANCE(₹)
+
+
+ 1   01 Jul 2024            01 Jul 2024   PCD/3701/DUM DUMMY                 418204225132                       -229.00          1,876.81
+     10:02 AM                             DUMDUM/9113112212010724/10:0
+                                          2
+
+ 2   01 Jul 2024            01 Jul 2024   IFT-DUM DUMDUM PRIVATE LI-      FCM-                       +1,18,100.00   1,19,976.81
+     06:45 PM                             FCM-240701BCZ9JN                    240701BCZ9JN
+
+ 3   01 Jul 2024            01 Jul 2024   UPI/DUMDUMDUMDUM                  UPI-418350627793             -51,560.00     68,416.81
+     06:50 PM                             /418327227590/repayment DUM DUM
+
+ 4   01 Jul 2024            01 Jul 2024   UPI/DUMDUM/418327809212/Repayme UPI-418351171691                -36,575.00     31,841.81
+     06:59 PM                             nt DUM DUMDUM
+

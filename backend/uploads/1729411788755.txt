@@ -1,0 +1,18 @@
+Tran Date      Chq No                   Particulars                   Debit        Credit             Balance           Init.
+                                                                                                                         Br
+
+                        OPENING BALANCE                                                                         85.67
+                        UPI/P2M/453073921321/DUM DUMMY
+12-06-2024              NA /Pay to/Federal Bank                           30.00                                 55.67 2792
+                        NEFT/N164243091415364/DUM DUMDUM
+12-06-2024              GROUP/HDFC BANK/DUM DUM DUM                                  31803.00               31858.67 248
+                        UPI/P2M/453032629394/DUMDUMDUM
+12-06-2024              /Refere/ICICI Bank                              3132.00                             28726.67 2792
+                        UPI/P2A/453081933976/DUM DUM DUMDUM
+12-06-2024              /UPI/Bank of India                             15000.00                             13726.67 2792
+                        UPI/P2A/416410275530/DUMDUM/Bank of
+12-06-2024              I/Payment/                                                    3500.00               17226.67 2792
+                        UPI/P2M/416451336476/DUM DUM DUMDUM
+12-06-2024              Payment/Pay/ICICI Bank                          9542.00                              7684.67 2792
+                        UPI/P2A/453079038439/DUM DUM
+

@@ -1,0 +1,20 @@
+Entry Date                    Description            Chq No/Ref No      Value Date   Debit           Credit          Balance
+
+01-May-2024 Opening Balance                                          01-May-2024                                               2.02
+
+06-May-2024 UPI/CR/412794151529/DUM DUM             412794151529     06-May-2024                           1.00                3.02
+            DUM DUM/HDFC/50100402207481/UPI
+
+06-May-2024 REV-UPI/449331665935/TRN///21           449331665935     06-May-2024                           1.00                4.02
+
+06-May-2024 UPI/DR/449331665935/DUM DUMDUM          449331665935     06-May-2024             1.00                              3.02
+            D/ICIC/758201501405/UPI
+
+06-May-2024 REV-UPI/412795373530/TRN///21           412795373530     06-May-2024                           1.00                4.02
+
+06-May-2024 UPI/DR/412795373530/DUMDUMDUM           412795373530     06-May-2024             1.00                              3.02
+            D/ICIC/758201501405/UPI
+
+06-May-2024 UPI/DR/412791392446/DUM DUM DUM         412791392446     06-May-2024             1.00                              2.02
+            D/ICIC/758201501405/UPI
+
